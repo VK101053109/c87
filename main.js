@@ -1,4 +1,4 @@
-canvas = new fabric.canvas('myc')
+canvas = new fabric.Canvas('myc')
 block_y = 1;
 block_x = 1;
 
